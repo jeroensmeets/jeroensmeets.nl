@@ -17,9 +17,8 @@
   },
   "homepage": "https://github.com/jeroensmeets/jeroensmeets.nl#readme",
   "devDependencies": {
-    "@11ty/eleventy": "^2.0.1"
-  },
-  "dependencies": {
+    "@11ty/eleventy": "^2.0.1",
+    "eleventy-plugin-rev": "^1.1.1",
     "eleventy-sass": "^2.2.3"
   }
 }
